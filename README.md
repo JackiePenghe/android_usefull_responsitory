@@ -94,8 +94,36 @@ dataBiding开启（buid.gradle中）
 ```
 
 ## 富文本加载框架[https://gitee.com/sscl/RichText](https://gitee.com/sscl/RichText)
+此库本为jcenter仓库，源库地址为[https://github.com/zzhoujay/RichText](https://github.com/zzhoujay/RichText)
+我克隆了此仓库并发布到jitpack中（同时转为androidx库，源库用的是support库）
 ```xml
   implementation 'com.gitee.sscl:RichText:1.0.1'
 ```
 
+## 屏幕适配库[https://github.com/JessYanCoding/AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)
+```xml
+implementation 'com.github.JessYanCoding:AndroidAutoSize:v1.2.1'
+```
+
+## websocket库[https://github.com/TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)
+```xml
+   implementation 'org.java-websocket:Java-WebSocket:1.5.2'
+```
+
+## EventBus
+```xml
+ implementation 'org.greenrobot:eventbus:3.3.1'
+```
+
+## 安卓串口库[https://gitee.com/sscl/SerialPortLibrary](https://gitee.com/sscl/SerialPortLibrary)
+```xml
+implementation 'com.gitee.sscl:SerialPortLibrary:1.0.4'
+```
+
+## 图片选择器[https://gitee.com/sscl/image-picker](https://gitee.com/sscl/image-picker)
+此库本为jcenter仓库，源库地址为[https://github.com/jeasonlzy/ImagePicker](https://github.com/jeasonlzy/ImagePicker)
+我克隆了此仓库并发布到jitpack中（同时转为androidx库，源库用的是support库）
+```xml
+implementation 'com.gitee.sscl:image-picker:1.0.0'
+```
 
