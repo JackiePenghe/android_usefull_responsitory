@@ -1,7 +1,7 @@
 # android_usefull_responsitory
-# 安卓好用的第三方仓库（因为jcenter仓库已经停止维护，故不包含jcenter仓库中的信息）
+# 安卓好用的第三方仓库
 
-使用这些仓库时，推荐先引入jitpack仓库，这些仓库大多不在mavenCentral中
+使用这些仓库时，推荐先引入jitpack仓库
 
 ```
   //jitpack仓库
