@@ -10,7 +10,7 @@ jitpack仓库依赖
   }
 ```
 
-## 常用的基础库(https://gitee.com/sscl/baselibrary-for-kotlin)[https://gitee.com/sscl/baselibrary-for-kotlin]
+## 常用的基础库[https://gitee.com/sscl/baselibrary-for-kotlin](https://gitee.com/sscl/baselibrary-for-kotlin)
 
 ```
     /* * * * * * * * * * * * * * * * * * * 基础库开始 * * * * * * * * * * * * * * * * * * */
