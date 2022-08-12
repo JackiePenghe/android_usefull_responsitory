@@ -1,7 +1,7 @@
 # android_usefull_responsitory
 # 安卓好用的第三方仓库
 
-使用这些仓库时，推荐先引入jitpack仓库
+使用这些仓库时，一定要先引入jitpack仓库
 
 ```
   //jitpack仓库
