@@ -1,6 +1,9 @@
 # android_usefull_responsitory
 # 安卓好用的第三方仓库
 
+本仓库已迁移到gitee继续维护
+[https://gitee.com/sscl/android_usefull_responsitory](https://gitee.com/sscl/android_usefull_responsitory)
+
 部分仓库为jcenter库移植，并转为androidx（这些库在对应的位置是写有相关说明的）
 
 使用这些仓库时，一定要先引入jitpack仓库
